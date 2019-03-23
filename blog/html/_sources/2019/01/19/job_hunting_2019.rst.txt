@@ -2,7 +2,9 @@ Job Hunting 2019
 ================
 | Been hunting job since Dec 2018. Still no job. Have one phone call interview awaiting me next week and waiting for news from another company.
 | I am going to share some experience from my job hunting with you guys.
+
 .. more::
+
 | So here is the thing. I am a fresh graduate from IT background with a somewhat decent CGPA 3.6+
 | I finished my internship August last year and decided not to continue work at that company even though they did offer me a great begining salary to stay.
 | After internship I took a break and started doing a freelance project which eventually cancelled.
@@ -18,6 +20,7 @@ Job Hunting 2019
 | Right now I still haven't found a job but I am looking forward to it. Life is harsh for me, a lot of thing need to get done. There is weight on my shoulder I needed some place to realse those tension. That is why I wrote this blog. Whoever you are I hope you enjoy reading my blog. The article is quite messy if you ask me. 
 |
 | Until next time.
+
 .. author:: default
 .. categories:: none
 .. tags:: none
