@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Kylos Note'
+theme = 'kylos'
+
+
+[params]
+    full_name = 'Klaus Lam'
+    role = 'Software Engineer'
+    bio = 'Passionate Tech Guy'
+    avatar = 'avatar.jpeg'
+    date_format = "2006-01-02"
+

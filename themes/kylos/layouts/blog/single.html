@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body>
+  {{ partial "nav.html" . }}
+  <div class="bg-white py-5 sm:py-5">
+    <div class="mx-auto max-w-7xl px-5 lg:px-5">
+      <div class="mx-auto max-w-2xl lg:mx-0">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">{{.Title}}</h2>
+        {{ $createdAt := .Date.Format .Site.Params.date_format }}
+        <h3 class="mt-2 text-lg leading-8 text-gray-600">{{ $createdAt }}
+        </h3>
+      </div>
+
+      <div
+        class="mx-auto mt-5 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-5 sm:mt-5 sm:pt-5 lg:mx-0 lg:max-w-none lg:grid-cols-1">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</body>
+{{ partial "footer.html" . }}
+
+</html>
