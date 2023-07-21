@@ -2,6 +2,8 @@
 title: "One Month After Landing My First Job"
 date: 2019-03-23
 type: "blog"
+tags: ["blog"]
+keywords: ["blog"]
 summary: "It's been two months since my last post. A lot of things happened and I remember every one of them. The good news is I finally landed a job."
 ---
 

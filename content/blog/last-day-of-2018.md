@@ -2,6 +2,8 @@
 title: "Last Day of 2018"
 date: 2018-12-31
 type: "blog"
+tags: ["blog"]
+keywords: ["blog"]
 summary: "Today is the last day of 2018. A lots of thing happened, some of them were good and some were bad.I will just write about the most recent event that happened in my life."
 ---
 

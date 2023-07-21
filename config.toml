@@ -1,8 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kylosnote.github.io/'
 languageCode = 'en-us'
 title = 'Kylos Note'
 theme = 'kylos'
-
 
 [params]
     full_name = 'Klaus Lam'
@@ -10,4 +9,9 @@ theme = 'kylos'
     bio = 'Passionate Tech Guy'
     avatar = 'avatar.jpeg'
     date_format = "2006-01-02"
+    google_analytic = 'G-JG1GFLMPVP'
+    author = 'kylosnote'
+    description = 'Peak into kylosnote train of thought.'
+
+    
 
