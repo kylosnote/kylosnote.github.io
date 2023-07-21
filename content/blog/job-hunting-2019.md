@@ -2,6 +2,9 @@
 title: "Job Hunting 2019"
 date: 2019-01-19
 type: "blog"
+tags: ["blog"]
+keywords: ["job hunt", "career"]
+description: "Job Hunting in 2019"
 summary: "Been hunting job since Dec 2018. Still no job. Have one phone call interview awaiting me next week and waiting for news from another company."
 ---
 
