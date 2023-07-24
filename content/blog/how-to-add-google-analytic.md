@@ -49,5 +49,5 @@ After deployed that script, simply open your website and at the same time in Goo
 Voila! Its done.
 
 For more resources:
-
+    
 [https://support.google.com/tagmanager/answer/12811173](https://support.google.com/tagmanager/answer/12811173)
